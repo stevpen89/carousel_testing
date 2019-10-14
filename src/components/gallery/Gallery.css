@@ -1,0 +1,25 @@
+p {
+	color: red;
+}
+h2 {
+	color:red;
+	border:1px solid blue;
+}
+.slide-container{
+	height:80vh;
+	width:80vw;
+	border:3px dashed white
+}
+.each-fade{
+	height:80%;
+	border:1px solid red;
+}
+.image-container{
+	height:100%;
+	width:100%;
+	border:1px solid green
+}
+.image-container img{
+	height:300px;
+	max-width:100%;
+}
