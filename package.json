@@ -5,7 +5,7 @@
   "dependencies": {
     "babel-preset-react-app": "^9.0.2",
     "react": "^16.10.2",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.10.2",
     "react-image-gallery": "^0.9.1",
     "react-scripts": "^3.2.0",
